@@ -160,7 +160,6 @@ footer:
 include:
   - .htaccess
   - _pages
-  - 
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -296,3 +295,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
+#custom
+header:
+  image: /assets/images/Desert.jpg
