@@ -1,3 +1,11 @@
+# main links
+main:
+  - title: "About"
+    url: "/about/"
+  - title: "Category"
+    url: "/categories/"
+
+# sub
 docs:
   - title: Getting Started
     children:
