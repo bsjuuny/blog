@@ -285,23 +285,12 @@ compress_html:
 # Defaults
 defaults:
   # _posts
-  values:
-    layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      sidebar:
-        nav: "docs"
-      header:
-        image: /assets/images/Desert.jpg
-        
   - scope:
       path: ""
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: true
@@ -311,3 +300,12 @@ defaults:
         nav: "docs"
       header:
         image: /assets/images/Desert.jpg
+
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
