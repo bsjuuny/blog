@@ -15,5 +15,5 @@ toc: true
 ## History
  - test
 
-## 짦은 소개
+## 소개
  - test
