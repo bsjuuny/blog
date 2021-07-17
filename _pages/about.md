@@ -83,16 +83,14 @@ toc: true
 <summary style="cursor: pointer;">Webzen</summary>
 <div markdown="1">
 1. Company Webzen [Site](https://company.webzen.com/main)
-  * Main  
+  * Main 1  
   ![Git Pull Request](/techblog/assets/images/webzen/webzen1.png)  
-  * 1  
+  * Main 2  
   ![Git 2021 Information](/techblog/assets/images/webzen/webzen2.png)  
-  * 2   
+  * 재무제표   
   ![Git 2020 Information](/techblog/assets/images/webzen/webzen3.png)  
-  * 자원요청  
+  * 주가정보  
   ![Git 2020 Information](/techblog/assets/images/webzen/webzen4.png)  
-  * 일정관리  
-  ![Git 2020 Information](/techblog/assets/images/webzen/webzen5.png)  
 </div>
 </details>
 
