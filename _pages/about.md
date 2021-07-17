@@ -29,9 +29,13 @@ toc: true
   ![Git 2020 Information](/techblog/assets/images/git-2020.png)  
 2. Nsus 운영  
   ![Back Office](/techblog/assets/images/backoffice.png)  
+    
   ![My Info](/techblog/assets/images/myinfo.png)  
+    
   ![Deposit](/techblog/assets/images/deposit.png)  
+    
   ![RG](/techblog/assets/images/rg.png)  
+    
 
 
 ## 소개
