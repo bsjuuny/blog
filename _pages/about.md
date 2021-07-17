@@ -28,12 +28,13 @@ toc: true
   * Git 2020  
   ![Git 2020 Information](/techblog/assets/images/git-2020.png)  
 2. Nsus 운영  
+  * Back Office  
   ![Back Office](/techblog/assets/images/backoffice.png)  
-    
+  * My Info  
   ![My Info](/techblog/assets/images/myinfo.png)  
-    
+  * Deposit  
   ![Deposit](/techblog/assets/images/deposit.png)  
-    
+  * RG  
   ![RG](/techblog/assets/images/rg.png)  
     
 
