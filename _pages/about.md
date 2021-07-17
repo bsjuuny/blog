@@ -22,10 +22,10 @@ toc: true
 ## History
  1. Git Pull Request 2021  
  ![Git Pull Request](/techblog/assets/images/pr1.png)  
- 2. Git 2021
+ 2. Git 2021  
  ![Git 2021 Information](/techblog/assets/images/git-2021.png)  
- 3. Git 2020
- ![Git 2020 Information](/techblog/assets/images/git-2020.png)
+ 3. Git 2020  
+ ![Git 2020 Information](/techblog/assets/images/git-2020.png)  
 
 ## 소개
  - test
