@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 search: true
-last_modified_at: 2019-04-25T09:24:07+09:00
+last_modified_at: 2021-07-17T09:24:07+09:00
 toc: true
 ---
 
@@ -11,6 +11,9 @@ toc: true
  - 경기 유한대학 컴퓨터 정보학과 졸업
 
 ## What I did
+ - did
+
+## History
  - 앤서스랩 백오피스, 사용자 화면 개발 및 운영(2020.05 ~ 현재/ ANGULAR.JS, ANGULAR, HTML, CSS, TYPESCRIPT, SCSS, GITHUB, CODE REVIEW)
  - 코인제스트 회원 파트 개발 및 운영(2017.12 ~ 2019.04/ HTML, CSS, JAVASCRIPT, JAVA, VUE.JS, TYPESCRIPT)
  - 그린스테이지랩 회사, 지갑 페이지 개발 및 운영(2017.07 ~ 2017.12/ HTML, CSS, JAVASCRIPT, VUE.JS)
@@ -19,7 +22,7 @@ toc: true
  - 온오프믹스 사이트 개발 및 운영(2014.07 ~ 2015.07/ HTML, CSS, JAVASCRIPT)
  - 한빛소프트 국내, 해외 사이트 개발 및 운영(2011.03 ~ 2013.03/ HTML, CSS, JAVASCRIPT, 파트장)
 
-## History
+## Project
 1. Nsus 개발활동 내역
   * Git Pull Request 2021  
   ![Git Pull Request](/techblog/assets/images/pr1.png)  
@@ -36,8 +39,6 @@ toc: true
   ![Deposit](/techblog/assets/images/deposit.png)  
   * RG  
   ![RG](/techblog/assets/images/rg.png)  
-    
-
 
 ## 소개
  - test
