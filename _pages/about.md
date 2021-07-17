@@ -42,32 +42,25 @@ toc: true
  (2009.05 ~ 2010.05/ HTML, CSS, JAVASCRIPT, SVN)  
 
 ## Project
+<details>
+<summary style="cursor: pointer;">Nsus</summary>
+<div markdown="1">
 1. Nsus 개발활동 내역
   * Git Pull Request 2021  
-  ![Git Pull Request](/techblog/assets/images/pr1.png)  
+  ![Git Pull Request](/techblog/assets/images/nsuslab/pr1.png)  
   * Git 2021  
-  ![Git 2021 Information](/techblog/assets/images/git-2021.png)  
+  ![Git 2021 Information](/techblog/assets/images/nsuslab/git-2021.png)  
   * Git 2020  
-  ![Git 2020 Information](/techblog/assets/images/git-2020.png)  
+  ![Git 2020 Information](/techblog/assets/images/nsuslab/git-2020.png)  
 2. Nsus 운영  
   * Back Office  
-  ![Back Office](/techblog/assets/images/backoffice.png)  
+  ![Back Office](/techblog/assets/images/nsuslab/backoffice.png)  
   * My Info  
-  ![My Info](/techblog/assets/images/myinfo.png)  
+  ![My Info](/techblog/assets/images/nsuslab/myinfo.png)  
   * Deposit  
-  ![Deposit](/techblog/assets/images/deposit.png)  
+  ![Deposit](/techblog/assets/images/nsuslab/deposit.png)  
   * RG  
-  ![RG](/techblog/assets/images/rg.png)  
-
-<details>
-<summary>접기/펼치기 버튼</summary>
-<div markdown="1">
-
-|제목|내용|
-|--|--|
-|1|1|
-|2|10|
-
+  ![RG](/techblog/assets/images/nsuslab/rg.png)  
 </div>
 </details>
 
