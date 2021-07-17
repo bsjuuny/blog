@@ -18,11 +18,28 @@ toc: true
  5. 한빛소프트에서 서비스하는 국내, 해외(북미, 일본) 오피셜 사이트 웹 퍼블리싱 개발 운영
 
 ## History
- - 앤서스랩 백오피스, 사용자 화면 개발 및 운영(2020.05 ~ 현재/ ANGULAR.JS, ANGULAR, HTML, CSS, TYPESCRIPT, SCSS, GITHUB, CODE REVIEW)
- - 코인제스트 회원 파트 개발 및 운영(2017.12 ~ 2019.04/ HTML, CSS, JAVASCRIPT, JAVA, SPRING BOOT, SWAGGER, MYBATIS, VUE.JS, TYPESCRIPT, SVN)
- - 웹젠 서비스(국내 전체) 및 이벤트 페이지 개발 및 운영(2015.08 ~ 2016.06/ HTML, CSS, JAVASCRIPT, SVN)
- - 온오프믹스 사이트 개발 및 운영(2014.07 ~ 2015.07/ HTML, CSS, JAVASCRIPT, SVN)
- - 한빛소프트 국내, 해외 사이트 개발 및 운영(2011.03 ~ 2013.03/ HTML, CSS, JAVASCRIPT, SVN, 파트장)
+ - 앤서스랩 백오피스, 사용자 화면 개발 및 운영  
+ (2020.05 ~ 현재/ ANGULAR.JS, ANGULAR, HTML, CSS, TYPESCRIPT, SCSS, GITHUB, CODE REVIEW)  
+ - 가온소프트 그룹웨어 화면 개발
+ (2019.11 ~ 2020.03/ HTML, CSS, JAVASCRIPT, JAVA, VUE.JS, SPRING BOOT, TYPESCRIPT, SVN)  
+ - 코인제스트 회원 파트 개발 및 운영  
+ (2017.12 ~ 2019.04/ HTML, CSS, JAVASCRIPT, JAVA, SPRING BOOT, SWAGGER, MYBATIS, VUE.JS, TYPESCRIPT, SVN)  
+ - 그린스테이지랩 Kai 코인 개발 및 운영  
+ (2017.07 ~ 2017.12/ HTML, CSS, JAVASCRIPT, VUE.JS, SVN)  
+ - 서울옥션블루 개발 및 운영  
+ (2017.07 ~ 2017.12/ HTML, CSS, JAVASCRIPT, VUE.JS, SVN)  
+ - 멋집 HOT SOURCE 개발 및 운영  
+ (2016.05 ~ 2016.12/ HTML, CSS, JAVASCRIPT, JAVA, SPRING BOOT, SVN)  
+ - 웹젠 서비스(국내 전체) 및 이벤트 페이지 개발 및 운영  
+ (2015.08 ~ 2016.06/ HTML, CSS, JAVASCRIPT, SVN)  
+ - 온오프믹스 사이트 개발 및 운영  
+ (2014.07 ~ 2015.07/ HTML, CSS, JAVASCRIPT, SVN)  
+ - 한빛소프트 국내, 해외 사이트 개발 및 운영  
+(2011.03 ~ 2013.03/ HTML, CSS, JAVASCRIPT, SVN, 파트장)  
+ - 아이파트너즈 현대카드 사이트 개발 및 운영 
+ (2010.05 ~ 2011.02/ HTML, CSS, JAVASCRIPT, SVN)   
+ - 플로그램 웹 에이전시 사이트 개발 및 운영  
+ (2009.05 ~ 2010.05/ HTML, CSS, JAVASCRIPT, SVN)  
 
 ## Project
 1. Nsus 개발활동 내역
