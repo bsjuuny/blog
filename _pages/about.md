@@ -19,7 +19,7 @@ toc: true
 
 ## History
  - Git 2021
- ![git pull request](/assets/images/pr.png "git pull request")
+ ![git pull request](/assets/images/pr1.png "git pull request")
 
 ## 소개
  - test
