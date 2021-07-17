@@ -66,7 +66,7 @@ toc: true
 <details>
 <summary style="cursor: pointer;">Gaon</summary>
 <div markdown="1">
-1. Gaon Soft Groupware [Name of Link]({% http://www.naver.com %})
+1. Gaon Soft [Groupware](www.naver.com)
   * Git Pull Request 2021  
   ![Git Pull Request](/techblog/assets/images/gaonsoft/groupware1.png)  
   * Git 2021  
