@@ -18,8 +18,10 @@ toc: true
  - 웹젠 서비스(국내 전체) 및 이벤트 페이지 개발 및 운영(~2016.06/ HTML, CSS, JAVASCRIPT)
 
 ## History
- - Git 2021
- ![git pull request](/assets/images/pr1.png "git pull request")
+ 1. Git Pull Request 2021  
+ ![git pull request](/techblog/assets/images/pr1.png "git pull request")  
+ 2. Git 2021s
+ 3. Git 2020
 
 ## 소개
  - test
