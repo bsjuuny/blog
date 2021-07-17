@@ -64,18 +64,18 @@ toc: true
 </div>
 </details>
 <details>
-<summary style="cursor: pointer;">Gaon</summary>
+<summary style="cursor: pointer;">Gaon Soft</summary>
 <div markdown="1">
-1. Gaon Soft [Groupware](www.naver.com)
-  * Git Pull Request 2021  
+1. Gaon Soft [Groupware](https://dev.officeground.com/#/login)
+  * Sign In  
   ![Git Pull Request](/techblog/assets/images/gaonsoft/groupware1.png)  
-  * Git 2021  
+  * 전자결재1  
   ![Git 2021 Information](/techblog/assets/images/gaonsoft/groupware2.png)  
-  * Git 2020  
+  * 전자결재2  
   ![Git 2020 Information](/techblog/assets/images/gaonsoft/groupware3.png)  
-  * Git 2020  
+  * 자원요청  
   ![Git 2020 Information](/techblog/assets/images/gaonsoft/groupware4.png)  
-  * Git 2020  
+  * 일정관리  
   ![Git 2020 Information](/techblog/assets/images/gaonsoft/groupware5.png)  
 </div>
 </details>
