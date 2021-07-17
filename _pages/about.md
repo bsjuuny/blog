@@ -64,35 +64,35 @@ toc: true
 </div>
 </details>
 <details>
-<summary style="cursor: pointer;">Gaon Soft</summary>
+<summary style="cursor: pointer;">Kaon Soft</summary>
 <div markdown="1">
-1. Gaon Soft [Groupware] (https://dev.officeground.com/#/login)
+1. Kaon Soft [Groupware](https://dev.officeground.com/#/login)
   * Sign In  
-  ![Git Pull Request](/techblog/assets/images/gaonsoft/groupware1.png)  
+  ![Git Pull Request](/techblog/assets/images/kaonsoft/groupware1.png)  
   * 전자결재1  
-  ![Git 2021 Information](/techblog/assets/images/gaonsoft/groupware2.png)  
+  ![Git 2021 Information](/techblog/assets/images/kaonsoft/groupware2.png)  
   * 전자결재2  
-  ![Git 2020 Information](/techblog/assets/images/gaonsoft/groupware3.png)  
+  ![Git 2020 Information](/techblog/assets/images/kaonsoft/groupware3.png)  
   * 자원요청  
-  ![Git 2020 Information](/techblog/assets/images/gaonsoft/groupware4.png)  
+  ![Git 2020 Information](/techblog/assets/images/kaonsoft/groupware4.png)  
   * 일정관리  
-  ![Git 2020 Information](/techblog/assets/images/gaonsoft/groupware5.png)  
+  ![Git 2020 Information](/techblog/assets/images/kaonsoft/groupware5.png)  
 </div>
 </details>
 <details>
 <summary style="cursor: pointer;">Webzen</summary>
 <div markdown="1">
-1. Company Webzen [Site] (https://company.webzen.com/main)
+1. Company Webzen [Site](https://company.webzen.com/main)
   * Main  
-  ![Git Pull Request](/techblog/assets/images/gaonsoft/groupware1.png)  
+  ![Git Pull Request](/techblog/assets/images/webzen/webzen1.png)  
   * 1  
-  ![Git 2021 Information](/techblog/assets/images/gaonsoft/groupware2.png)  
+  ![Git 2021 Information](/techblog/assets/images/webzen/webzen2.png)  
   * 2   
-  ![Git 2020 Information](/techblog/assets/images/gaonsoft/groupware3.png)  
+  ![Git 2020 Information](/techblog/assets/images/webzen/webzen3.png)  
   * 자원요청  
-  ![Git 2020 Information](/techblog/assets/images/gaonsoft/groupware4.png)  
+  ![Git 2020 Information](/techblog/assets/images/webzen/webzen4.png)  
   * 일정관리  
-  ![Git 2020 Information](/techblog/assets/images/gaonsoft/groupware5.png)  
+  ![Git 2020 Information](/techblog/assets/images/webzen/webzen5.png)  
 </div>
 </details>
 
