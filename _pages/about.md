@@ -21,14 +21,17 @@ toc: true
 
 ## History
 1. Nsus 개발활동 내역
-  1. Git Pull Request 2021  
+  * Git Pull Request 2021  
   ![Git Pull Request](/techblog/assets/images/pr1.png)  
-  2. Git 2021  
+  * Git 2021  
   ![Git 2021 Information](/techblog/assets/images/git-2021.png)  
-  3. Git 2020  
+  * Git 2020  
   ![Git 2020 Information](/techblog/assets/images/git-2020.png)  
-2. Back Office & Web  
+2. Nsus 운영  
   ![Back Office](/techblog/assets/images/backoffice.png)  
+  ![My Info](/techblog/assets/images/myinfo.png)  
+  ![Deposit](/techblog/assets/images/deposit.png)  
+  ![RG](/techblog/assets/images/rg.png)  
 
 
 ## 소개
