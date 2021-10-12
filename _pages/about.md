@@ -19,7 +19,7 @@ toc: true
 
 ## History
  - 앤서스랩 백오피스, 사용자 화면 개발 및 운영  
- (2020.05 ~ 현재/ ANGULAR.JS, ANGULAR, HTML, CSS, TYPESCRIPT, SCSS, GITHUB, CODE REVIEW)  
+ (2020.05 ~ 2021.09/ ANGULAR.JS, ANGULAR, HTML, CSS, TYPESCRIPT, SCSS, GITHUB, CODE REVIEW)  
  - 가온소프트 그룹웨어 화면 개발
  (2019.11 ~ 2020.03/ HTML, CSS, JAVASCRIPT, JAVA, VUE.JS, SPRING BOOT, TYPESCRIPT, SVN)  
  - 코인제스트 회원 파트 개발 및 운영  
