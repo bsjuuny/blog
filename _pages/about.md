@@ -19,11 +19,14 @@ toc: true
 
 ## History
  - 앤서스랩 백오피스, 사용자 화면 개발 및 운영  
- (2020.05 ~ 2021.09/ ANGULAR.JS, ANGULAR, HTML, CSS, TYPESCRIPT, SCSS, GITHUB, CODE REVIEW)  
+   * 2020.05 ~ 2021.09
+   * ANGULAR.JS, ANGULAR, HTML, CSS, TYPESCRIPT, SCSS, GITHUB, CODE REVIEW
  - 가온소프트 그룹웨어 화면 개발
- (2019.11 ~ 2020.03/ HTML, CSS, JAVASCRIPT, JAVA, VUE.JS, SPRING BOOT, TYPESCRIPT, SVN)  
+   * 2019.11 ~ 2020.03
+   * HTML, CSS, JAVASCRIPT, JAVA, VUE.JS, SPRING BOOT, TYPESCRIPT, SVN
  - 코인제스트 회원 파트 개발 및 운영  
- (2017.12 ~ 2019.04/ HTML, CSS, JAVASCRIPT, JAVA, SPRING BOOT, SWAGGER, MYBATIS, VUE.JS, TYPESCRIPT, SVN)  
+   * 2017.12 ~ 2019.04
+   * HTML, CSS, JAVASCRIPT, JAVA, SPRING BOOT, SWAGGER, MYBATIS, VUE.JS, TYPESCRIPT, SVN
  - 그린스테이지랩 Kai 코인 개발 및 운영  
  (2017.07 ~ 2017.12/ HTML, CSS, JAVASCRIPT, VUE.JS, SVN)  
  - 서울옥션블루 개발 및 운영  
@@ -35,7 +38,7 @@ toc: true
  - 온오프믹스 사이트 개발 및 운영  
  (2014.07 ~ 2015.07/ HTML, CSS, JAVASCRIPT, SVN)  
  - 한빛소프트 국내, 해외 사이트 개발 및 운영  
-(2011.03 ~ 2013.03/ HTML, CSS, JAVASCRIPT, SVN, 파트장)  
+ (2011.03 ~ 2013.03/ HTML, CSS, JAVASCRIPT, SVN, 파트장)  
  - 아이파트너즈 현대카드 사이트 개발 및 운영 
  (2010.05 ~ 2011.02/ HTML, CSS, JAVASCRIPT, SVN)   
  - 플로그램 웹 에이전시 사이트 개발 및 운영  
